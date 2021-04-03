@@ -16,7 +16,8 @@ Streaming service platform to watch movies and series.
   - Built new-designed views and components to perform A/B testing experiments with in-house tools, in order to merchandise more plans offered to final users and increase sales in at least 30%.
   - Developed new features on client and server side that is applied for web signup flow.
   - **_Tech stack:_** ReactJS, Redux, Java 8, Java Spring, Jest, Enzyme, Webpack, Git, LaunchDarkly.
-<br> 
+<br>
+
 _MINCETUR - Oct 2019 - Oct 2020_ <br>
 Ministry of Foreign Trade and Turism (Peru)
   - Developed from scratch the new proposed UI view for in-house legacy web app to allow a more user-friendly navigability for inside workers and final users, applying a micro-frontend strategy to allow new designed modules/views co-exist inside legacy web-app based in Java 6.
@@ -32,7 +33,8 @@ _Artemisa ERP - July 2019 - Nov 2019_ <br>
 Web ERP for medium and small companies to keep track of their finantial and comercial information.
   - Implemented RESTful API endpoint for login and register module.
   - **_Tech stack:_** Java 11, Java Spring, REST, Lombok, PostgreSQL.
-<br> 
+<br>
+
 _Huarique MVP - May 2019 - Aug 2019_ <br>
 MVP project to display a way to find small restaurants.
   - Developed news feed section after login and register view
