@@ -1,55 +1,52 @@
 # Carlos Rodriguez
 
-_Software Developer from in Lima, Peru :peru:
+_Software Developer from Lima, Peru :peru:_
 
-[crodriguezq91@gmail.com](mailto:hello@workwithcarolyn.com) | [LinkedIn](https://www.linkedin.com/in/crodriguezq91/) / [GitHub](https://github.com/kroners/) / [Twitter](https://twitter.com/crodriguezq91/) / [DEV](https://dev.to/kroners/)
+[Email](mailto:crodriguezq91@gmail.com) | [LinkedIn](https://www.linkedin.com/in/crodriguezq91/) / [GitHub](https://github.com/kroners/) / [Twitter](https://twitter.com/crodriguezq91/) / [DEV](https://dev.to/kroners/)
 
 ## Summary
 
-Software developer with 5+ years of experience working for service-based and product-based companies. Strong experience for solving business requirements and delivering quality products. Creative, curious and seeking to learn new topics aiming to give value to client’s projects, and activities inside the working environment. 
+Software developer based in Lima, Peru with 5+ years of experience working for service-based and product-based companies. Strong experience for solving business requirements and delivering quality products. Creative, curious and seeking to learn new topics aiming to give value to client’s projects, and activities inside the working environment. 
 
 ## Professional Experience :man_technologist:
 
-**Software Developer** @ [Globant](https://globant.com/) <br> 
+**SSr Web UI Developer** @ [Globant](https://globant.com/) <br> 
 _US client (USA) - Oct 2020 - Present_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
-  - Building a new frontend component library
-  - **_Tech stack:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+Streaming service platform to watch movies and series.
+  - Built new-designed views and components to perform A/B testing experiments with in-house tools, in order to merchandise more plans offered to final users and increase sales in at least 30%.
+  - Developed new features on client and server side that is applied for web signup flow.
+  - **_Tech stack:_** ReactJS, Redux, Java 8, Java Spring, Jest, Enzyme, Webpack, Git, LaunchDarkly.
 <br> 
-_Ministerio de Comercio y Turismo (Peru) - Oct 2019 - Oct 2020_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
-  - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+_MINCETUR - Oct 2019 - Oct 2020_ <br>
+Ministry of Foreign Trade and Turism (Peru)
+  - Developed from scratch the new proposed UI view for in-house legacy web app to allow a more user-friendly navigability for inside workers and final users, applying a micro-frontend strategy to allow new designed modules/views co-exist inside legacy web-app based in Java 6.
+  - Gave technical presentations to update the client with new built features, and also to give knowledge transfer.
+  - Performed technical interviews for upcoming devs.
+  - Developed spikes to explore alternatives to improve legacy-app and final product.
+  - Participated in UI/UX design walkthroughs and decision for client presentation.
+  - **_Tech stack:_** VueJS, Vuex, Angular 8, SASS, ElementUI, Webpack, Java 6, SpringMVC, Docker, Git, TortoiseSVN.
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Software Developer** @ [Freelancer](https://foundation.graphql.org/) <br>
+_Artemisa ERP - July 2019 - Nov 2019_ <br>
+Web ERP for medium and small companies to keep track of their finantial and comercial information.
+  - Implemented RESTful API endpoint for login and register module.
+  - **_Tech stack:_** Java 11, Java Spring, REST, Lombok, PostgreSQL.
+<br> 
+_Huarique MVP - May 2019 - Aug 2019_ <br>
+MVP project to display a way to find small restaurants.
+  - Developed news feed section after login and register view
+  - Participated in UI/UX design for news feed.
+  - **_Tech stack:_** VueJS, Vuex, SASS, Laravel 5.8, Figma.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
+**Software Developer | Pre-sales consultant** @ [Anzen Digital](https://www.anzen.com.mx/) (CDMX, Mexico) _(Aug 2018 - Mar 2019)_ <br>
+Service-based company focused on providing solutions for finantial sector
+  - Worked with a cross-functional, agile team to present Pivotal product suite focused on PKS (Kubernetes solution).
+  - Analyzed clients' requirements to build demo solutions (SPA, E-commerce)
+  - Gave technical presentations for company team and clients.
+  - Wrote reports and documents ready to be used for clients' contracts.
+  - **_Tech stack:_** VueJS, Vuex, Java 11, Java Spring, ES6, REST.
   <br><br>
 
 **Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
